@@ -1,0 +1,6 @@
+raster  = '/Users/earaya/INVESTIGACION/CH3OH_19GHz_GBT_IR18566_NGC7538_VLA_W3OH/DATA/W3OH_Cont_Mode_2014_Rodriguez/W3OH_19GHz_CH3OH_cube.image.pbcor'
+contour = {}
+zoom    = 1
+axes    = {}
+out     = ''
+#imview( raster='/Users/earaya/INVESTIGACION/CH3OH_19GHz_GBT_IR18566_NGC7538_VLA_W3OH/DATA/W3OH_Cont_Mode_2014_Rodriguez/W3OH_19GHz_CH3OH_cube.image.pbcor',contour={},zoom=1,axes={},out='' )
